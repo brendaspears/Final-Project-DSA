@@ -1,0 +1,4 @@
+/private/var/folders/pg/1n3vz0cn5nq39q4jg5_ck52c0000gn/T/AppTranslocation/2BB88ABC-9D51-4C34-97F6-E93137D43365/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/brenda/CLionProjects/astrology
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/brenda/CLionProjects/astrology/cmake-build-debug

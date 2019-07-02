@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/astrology.dir/main.cpp.o CMakeFiles/astrology.dir/function.cpp.o CMakeFiles/astrology.dir/menu.cpp.o CMakeFiles/astrology.dir/person.cpp.o  -o astrology 
